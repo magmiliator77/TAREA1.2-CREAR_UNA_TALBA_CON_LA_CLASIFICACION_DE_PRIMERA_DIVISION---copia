@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.h1, h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.caja{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+/* ESTILOS TABLA */
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+
+table, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+
+/* CREADO POR MIGUEL TORRES MARTÍNEZ 2ºB SMR :D*/
